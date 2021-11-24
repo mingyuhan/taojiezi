@@ -1,0 +1,32 @@
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.exe
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.deps.json
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.json
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.dev.json
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.dll
+E:\windownex\WApp\bin\Debug\netcoreapp3.1\WApp.pdb
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.AssemblyReference.cache
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.Form1.resources
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.GenerateResource.cache
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfoInputs.cache
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfo.cs
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CoreCompileInputs.cache
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.dll
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.pdb
+E:\windownex\WApp\obj\Debug\netcoreapp3.1\WApp.genruntimeconfig.cache
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.exe
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.deps.json
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.json
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.dev.json
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.dll
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\bin\Debug\netcoreapp3.1\WApp.pdb
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.AssemblyReference.cache
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.Form1.resources
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.GenerateResource.cache
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfoInputs.cache
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfo.cs
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CoreCompileInputs.cache
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.dll
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.pdb
+C:\Users\22335\Documents\Tencent Files\2233535470\FileRecv\WApp\obj\Debug\netcoreapp3.1\WApp.genruntimeconfig.cache
